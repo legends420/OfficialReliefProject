@@ -90,7 +90,7 @@ static const int64_t COIN_SPRB_REWARD = 50 * COIN; // 50 coins
 /** PoS Superblock Reward Fixed */
 static const int64_t COIN_SPRB_REWARD_FIXED = 50 * CENT; // 50%
 /** MN Reward Fixed */
-static const int64_t MN_REWARD_FIXED = 150 * CENT; // 150%
+static const int64_t MN_REWARD_FIXED = 35 * COIN; // MN UPDATE Great update for investors :-P
 /** Block spacing preferred */
 static const int64_t BLOCK_SPACING = 5 * 60;
 /** Block spacing minimum */
